@@ -149,3 +149,14 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/images,linux,windows,macos,freecad
+
+
+
+# Whitelist
+!*.pdf
+!*.igs
+!*.stp
+!*.step
+!*.png
+!*.jpg
+!*.jpeg
